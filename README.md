@@ -74,14 +74,19 @@ Created a rich, interactive dashboard that includes:
 - **Key Metrics (Total Individuals, % Smokers, % Drinkers)**
 
 <p align="center">
-  <img src="Excel Dashboard/Images/Screenshot 2025-07-01 114730.png" width="1000"/>
+  <img src="PowerBI_Dashboard/DASHBOARD.png" width="1000"/>
 </p>
 
 ---
 
 ## 📥 Dataset
 
-- [`addiction_population_data.csv`](https://www.kaggle.com/datasets/khushikyad001/cigarettes-and-alcohol-addiction?resource=download)  
+- [`Cigarettes & Alcohol Addiction`](https://www.kaggle.com/datasets/khushikyad001/cigarettes-and-alcohol-addiction?resource=download)  
   A synthetic population dataset with 3,000 records and 25 features related to demographics, habits, and health.
 
 ---
+
+📧 Contact
+Aditya Kumar Singh
+📍 LinkedIn Profile (www.linkedin.com/in/aditya-kumar-singh-990377291)
+📧 Email: adityasingh81201@gmail.com
