@@ -86,7 +86,8 @@ Created a rich, interactive dashboard that includes:
 
 ---
 
-📧 Contact
-- Aditya Kumar Singh
-- 📍 [LinkedIn Profile](www.linkedin.com/in/aditya-kumar-singh-990377291)
-- 📧 [Email](adityasingh81201@gmail.com)
+## 📧 Contact
+
+**Aditya Singh**  
+📍 [LinkedIn](https://www.linkedin.com/in/aditya-kumar-singh-990377291/)  
+✉️ [Email](mailto:adityasingh81201@gmail.com)
