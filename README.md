@@ -87,6 +87,8 @@ Power BI Dashboard
 ├── EDA.ipynb
 ├── ML_Model.ipynb
 ├── dataset.csv
+├── Report.pdf
+├── Presentation.pptx
 ├── README.md
 └── assets/
     └── dashboard.png
